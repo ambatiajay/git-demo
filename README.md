@@ -4,7 +4,7 @@ This is the first file in this repository.
 
 ## Ipsum Below
 
-Lakehsow starters for the 2022-23 season: Kyrie, x, Bron, AD, x
+Lakehsow stars for the 2022-23 season: Kyrie, Bron, AD
 
 ## update readme and add/commit at the same time
 
